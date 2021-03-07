@@ -1,6 +1,7 @@
 ---
 layout: article
 title: First Post
+author: author
 license: true
 sharing: true
 mermaid: true
